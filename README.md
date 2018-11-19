@@ -5,4 +5,4 @@ Collection of useful C functions/tools
 
 Products usage is as follows:
 
-product(<set>, <set length>,  <repeat>, <callback function>) 
+product(\<set\>, \<set length\>,  \<repeat\>, \<callback function\>) 
